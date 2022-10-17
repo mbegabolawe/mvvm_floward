@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Floward</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="user_list_label">Users</string>
+    <string name="user_detail_label">User details</string>
+</resources>
